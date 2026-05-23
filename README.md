@@ -1,4 +1,4 @@
-# Hi, I'm a High-Performance Systems & Quant Infrastructure Engineer 🚀
+# Hi, I'm a full stack system architect with Quant Infrastructure Engineer Knowledge with production level insights
 
 📍 **India** | 🦀 **Rust & Systems Specialist** | 📉 **Low-Latency Quant Infra** | 💰 **Low-Capex AI & Architecture**
 

@@ -1,10 +1,9 @@
-# Hi, I'm a full stack system architect with Quant Infrastructure Engineer Knowledge with production level insights
+# Hi, I'm a Full-Stack System AI Architect
+📍 **India** | 🦀 **Rust Specialist** | 📉 **Quant Infra** | 💰 **Low-Capex AI** ![](https://komarev.com/ghpvc/?username=offline-pixel&color=blue&style=flat-square)
 
-📍 **India** | 🦀 **Rust & Systems Specialist** | 📉 **Low-Latency Quant Infra** | 💰 **Low-Capex AI & Architecture**
+## Languages and Tools
 
-## 🛠️ Languages and Tools
-
-### 🦀 Systems, Quant Infrastructure & High-Performance Data
+### Systems, Quant & High-Performance Data
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
@@ -16,14 +15,14 @@
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org/)
 [![Apache_Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
 
-### 🤖 AI & Document Intelligence
+### AI & Document Intelligence
 [![LLMs](https://img.shields.io/badge/Local_LLMs-Execution-8000FF?style=flat)](https://github.com/ollama/ollama)
 [![RAG](https://img.shields.io/badge/RAG_Pipelines-Low--Overhead-FF4F00?style=flat)](https://www.langchain.com/)
 [![Vector_DB](https://img.shields.io/badge/Vector_Search-FAISS/Chroma-00FFFF?style=flat)](https://github.com/facebookresearch/faiss)
 [![OCR](https://img.shields.io/badge/OCR_Pipelines-Document_Intelligence-009688?style=flat)](https://github.com/tesseract-ocr/tesseract)
 [![XGBoost](https://img.shields.io/badge/XGBoost-Walk--Forward-F7931E?style=flat)](https://xgboost.readthedocs.io/)
 
-### 💻 Full-Stack Architecture with UI/UX
+### Full-Stack Developer with UI/UX
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -36,14 +35,14 @@
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)](https://graphql.org/)
 [![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=grpc&logoColor=white)](https://grpc.io/)
 
-### 🛡️ Enterprise Automation & Business Platforms
+### Enterprise Automation & Business Platforms
 [![Microsoft_Power_BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Power_Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat&logo=microsoft-powerapps&logoColor=white)](https://powerapps.microsoft.com/)
 [![Power_Automate](https://img.shields.io/badge/Power_Automate-2560E8?style=flat&logo=microsoft-power-automate&logoColor=white)](https://powerautomate.microsoft.com/)
 [![SharePoint](https://img.shields.io/badge/SharePoint_Arch-036C74?style=flat&logo=microsoft-sharepoint&logoColor=white)](https://microsoft.com/sharepoint)
 [![Microsoft_Graph_API](https://img.shields.io/badge/Graph_API-0078D4?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/graph/)
 
-### ⚙️ Cloud, MLOps & Production Infrastructure
+### Cloud, MLOps & Production Infrastructure
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
@@ -55,12 +54,12 @@
 
 ---
 
-## 🛠️ Deep Tech Stack
+## Deep Tech Stack
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🦀 Systems & Quant Engineering</h3>
+      <h3>Systems & Quant Engineering</h3>
       <ul>
         <li><b>Languages:</b> Rust, Python, Modern C++, TypeScript, Go</li>
         <li><b>Low-Latency Architecture:</b> Lock-Free Concurrency, Ring Buffers, SIMD Vectorization, Zero-Allocation Serialization</li>
@@ -69,7 +68,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>📈 Time-Series & High-Performance Data</h3>
+      <h3>Time-Series & High-Performance Data</h3>
       <ul>
         <li><b>Analytical Databases:</b> ClickHouse, DuckDB, TimescaleDB, SQLite</li>
         <li><b>Enterprise Stores:</b> PostgreSQL, MS SQL Server, MongoDB, Azure Blob</li>
@@ -80,7 +79,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Low-Capex AI & Automation</h3>
+      <h3>Low-Capex AI & Automation</h3>
       <ul>
         <li><b>Edge Intelligence:</b> Local LLMs execution, Minimal-Overhead RAG Pipelines, Vector Search Optimization</li>
         <li><b>Document Extraction:</b> Custom OCR + Local LLM processing, Document Intelligence Pipelines</li>
@@ -88,7 +87,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>💻 Distributed Frontends & Platforms</h3>
+      <h3>Distributed Frontends & Platforms</h3>
       <ul>
         <li><b>Desktop & Mobile:</b> Tauri (Rust/Preact), Native Android SDK (C++ JNI/Rust compilation), Single-SPA Microfrontends</li>
         <li><b>Web Engines:</b> Vue.js 3 (Composition API), Angular 10+, React, Node.js, NgRx, GraphQL</li>
@@ -100,9 +99,9 @@
 
 ---
 
-## 🕒 Executive Engineering Timeline & Production Impact
+## Timeline & Production Impact
 
-### 🚀 August 2024 – Present | Principal Independent Systems Engineer
+### August 2024 – Present | Principal Independent Systems Engineer
 *Development of high-throughput data pipelines, custom low-overhead infrastructure setups, and trading companion applications.*
 
 
@@ -116,7 +115,7 @@
 
 ---
 
-### 🛠️ December 2023 – August 2024 | Engineering Team Lead
+### December 2023 – August 2024 | Lead Engineer
 *Infrastructure modernization audits, microservices optimization, and decoupling technical debt blocks.*
 
 *   **Infrastructure Audit & Bills Reduction:** Assessed complex, legacy corporate cloud networks, mapping structural deficiencies and applying optimized data execution routines spanning **Vue.js, Java, and MERN** setups to cut cloud processing costs significantly.
@@ -125,7 +124,7 @@
 
 ---
 
-### 💻 October 2020 – November 2023 | Senior Software Engineer
+### October 2020 – November 2023 | Senior Software Engineer
 *Large-scale microservices migration, parallel execution engineering, and business portal management.*
 
 *   **Core Systems Rewrites:** Orchestrated the clean architectural overhaul of large-scale, high-concurrency client portals from legacy frontend stacks (AngularJS to Angular 10; Vue 2 to Vue 3), removing deeply rooted memory allocation leaks and decreasing application crash frequencies.
@@ -134,7 +133,7 @@
 
 ---
 
-### 🔍 August 2019 – June 2020 | Core IT Consultant
+### August 2019 – June 2020 | IT Consultant
 *Localization development and low-latency real-time asset metric dashboards.*
 
 *   **Business Intelligence UIs:** Built specialized, localized network traffic monitoring layouts within **Angular 8**, optimizing asset compiling sizes and designing explicit asynchronous data pathways to update massive operational metrics cleanly.
@@ -142,7 +141,7 @@
 
 ---
 
-### 📊 November 2017 – July 2019 | Junior Systems Analyst
+### 📊 November 2017 – July 2019 | Analyst
 *Automated vendor financial engines and high-volume data serialization pipelines.*
 
 *   **Mathematical Costing Modules:** Conceived and written internal algorithmic verification models to automate complex supplier cost profiling configurations, optimizing net commercial margins.
@@ -151,14 +150,14 @@
 
 ---
 
-### ⚡ November 2016 – October 2017 | Systems & IT Executive
+### November 2016 – October 2017 | IT Executive
 *Runtime execution engineering, landing engine construction, and load performance balancing.*
 
 *   **Lighthouse Performance Optimization:** Engineered customer-facing web services and digital distribution capture assets, auditing application architectures using automated profiling tools to achieve top runtime speeds, strong search positioning, and minimized system drag under traffic surges.
 
 ---
 
-### 🎨 March 2015 – November 2016 | Systems UX Developer
+### March 2015 – November 2016 | Systems UI/UX Developer
 *Transactional layout structures and email pipeline assembly.*
 
 *   **Email Engine Implementations:** Constructed fluid HTML notification pipelines validated to execute across all enterprise email client visualization layouts.
@@ -166,7 +165,7 @@
 
 ---
 
-## 📈 Tech Performance Benchmarks & Targets
+## Tech Performance Benchmarks & Targets
 
 *   **Rust Binary Optimization:** Zero-allocation parsers capable of processing continuous data limits under sub-millisecond thread execution constraints.
 *   **Storage Engineering Focus:** Shifting cloud database overhead into zero-maintenance local **DuckDB/Parquet** frameworks, reducing enterprise data retention overhead by **up to 85%**.
@@ -181,3 +180,4 @@ If you are looking to build **insanely fast systems**, optimize a heavy data pip
 *   💻 **GitHub:** [github.com/offline-pixel](https://github.com/offline-pixel)
 *   👔 **offline pixel:** *[https://offline-pixel.github.io/](https://offline-pixel.github.io/)*
 *   💼 **Inquiries:** *[offline-pixel](https://offline-pixel.github.io/)*
+

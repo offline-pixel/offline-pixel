@@ -2,20 +2,60 @@
 
 📍 **India** | 🦀 **Rust & Systems Specialist** | 📉 **Low-Latency Quant Infra** | 💰 **Low-Capex AI & Architecture**
 
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)](https://duckdb.org/)
-[![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black)](https://clickhouse.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+## 🛠️ Languages and Tools
+
+### 🦀 Systems, Quant Infrastructure & High-Performance Data
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)
+[![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?style=flat&logo=clickhouse&logoColor=black)](https://clickhouse.com/)
+[![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)](https://duckdb.org/)
+[![TimescaleDB](https://img.shields.io/badge/TimescaleDB-F15A24?style=flat&logo=timescaledb&logoColor=white)](https://www.timescale.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org/)
+[![Apache_Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
+
+### 🤖 AI & Document Intelligence
+[![LLMs](https://img.shields.io/badge/Local_LLMs-Execution-8000FF?style=flat)](https://github.com/ollama/ollama)
+[![RAG](https://img.shields.io/badge/RAG_Pipelines-Low--Overhead-FF4F00?style=flat)](https://www.langchain.com/)
+[![Vector_DB](https://img.shields.io/badge/Vector_Search-FAISS/Chroma-00FFFF?style=flat)](https://github.com/facebookresearch/faiss)
+[![OCR](https://img.shields.io/badge/OCR_Pipelines-Document_Intelligence-009688?style=flat)](https://github.com/tesseract-ocr/tesseract)
+[![XGBoost](https://img.shields.io/badge/XGBoost-Walk--Forward-F7931E?style=flat)](https://xgboost.readthedocs.io/)
+
+### 💻 Full-Stack Architecture with UI/UX
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Vue.js](https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![Angular](https://img.shields.io/badge/Angular_10+-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)
+[![Tauri](https://img.shields.io/badge/Tauri-24C6CE?style=flat&logo=tauri&logoColor=white)](https://tauri.app/)
+[![Preact](https://img.shields.io/badge/Preact-673AB8?style=flat&logo=preact&logoColor=white)](https://preactjs.com/)
+[![Android](https://img.shields.io/badge/Android_NDK-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)](https://graphql.org/)
+[![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=grpc&logoColor=white)](https://grpc.io/)
+
+### 🛡️ Enterprise Automation & Business Platforms
+[![Microsoft_Power_BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Power_Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat&logo=microsoft-powerapps&logoColor=white)](https://powerapps.microsoft.com/)
+[![Power_Automate](https://img.shields.io/badge/Power_Automate-2560E8?style=flat&logo=microsoft-power-automate&logoColor=white)](https://powerautomate.microsoft.com/)
+[![SharePoint](https://img.shields.io/badge/SharePoint_Arch-036C74?style=flat&logo=microsoft-sharepoint&logoColor=white)](https://microsoft.com/sharepoint)
+[![Microsoft_Graph_API](https://img.shields.io/badge/Graph_API-0078D4?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/graph/)
+
+### ⚙️ Cloud, MLOps & Production Infrastructure
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)](https://www.sonarqube.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 
 > Systems Architect specializing in cutting runtime execution speeds and cloud infrastructure overhead simultaneously. I bridge the gap between **bare-metal performance engineering (Quant feeds, Lock-free systems)** and **ultra-low-cost enterprise systems (Local LLMs, Local-first big data analytical engines)**.
 
 ---
 
-## 🛠️ Deep Tech Stack & Ecosystem Matrix
+## 🛠️ Deep Tech Stack
 
 <table>
   <tr>

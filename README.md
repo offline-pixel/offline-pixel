@@ -1,4 +1,4 @@
-# Hi, I'm a Full-Stack System AI Architect
+# Hi, I'm a Staff Software Engineer (Systems, AI & Performance)
 📍 **India** | 🦀 **Rust Specialist** | 📉 **Quant Infra** | 💰 **Low-Capex AI** ![](https://komarev.com/ghpvc/?username=offline-pixel&color=blue&style=flat-square)
 
 ## Languages and Tools

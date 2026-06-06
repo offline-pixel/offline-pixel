@@ -177,7 +177,9 @@
 
 If you are looking to build **insanely fast systems**, optimize a heavy data pipeline, or **crush your monthly cloud compute costs** by migrating to a performance-focused local-first stack, let's talk.
 
-*   💻 **GitHub:** [github.com/offline-pixel](https://github.com/offline-pixel)
-*   👔 **offline pixel:** *[https://offline-pixel.github.io/](https://offline-pixel.github.io/)*
-*   💼 **Inquiries:** *[offline-pixel](https://offline-pixel.github.io/)*
+[![GitHub](https://img.shields.io/badge/GitHub-offline--pixel-181717?logo=github)](https://github.com/offline-pixel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak%20Ranolia-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-ranolia/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-offline--pixel.github.io-orange)](https://offline-pixel.github.io/)
+
+<!-- GitAds-Verify: 87S6BVWF5AP7BHDWN6MVU5YRRBIRT1OC -->
 

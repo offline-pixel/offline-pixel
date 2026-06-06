@@ -1,5 +1,5 @@
 # Hi, I'm a Staff Software Engineer (Systems, AI & Performance)
-📍 **India** | 🦀 **Rust Specialist** | 📉 **Quant Infra** | 💰 **Low-Capex AI** ![](https://komarev.com/ghpvc/?username=offline-pixel&color=blue&style=flat-square)
+📍 **India** ![](https://komarev.com/ghpvc/?username=offline-pixel&color=blue&style=flat-square)
 
 ## Languages and Tools
 
@@ -101,7 +101,7 @@
 
 ## Timeline & Production Impact
 
-### August 2024 – Present | Principal Independent Systems Engineer
+### August 2024 – Present | Staff Software Engineer
 *Development of high-throughput data pipelines, custom low-overhead infrastructure setups, and trading companion applications.*
 
 
@@ -141,7 +141,7 @@
 
 ---
 
-### 📊 November 2017 – July 2019 | Analyst
+### November 2017 – July 2019 | Analyst
 *Automated vendor financial engines and high-volume data serialization pipelines.*
 
 *   **Mathematical Costing Modules:** Conceived and written internal algorithmic verification models to automate complex supplier cost profiling configurations, optimizing net commercial margins.

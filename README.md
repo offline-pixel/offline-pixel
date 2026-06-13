@@ -1,5 +1,11 @@
 # Hi, I'm a Staff Software Engineer (Systems, AI & Performance)
-📍 **India** ![](https://komarev.com/ghpvc/?username=offline-pixel&color=blue&style=flat-square)
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=offline-pixel&theme=default" alt="Offline Pixel GitHub profile details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=offline-pixel&theme=default" alt="Offline Pixel GitHub profile details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=offline-pixel&theme=default&utcOffset=5.5" alt="Offline Pixel GitHub profile details" />
+
+![](https://komarev.com/ghpvc/?username=offline-pixel&color=blue&style=flat-square) 📍 **India**
+</div>
 
 ## Languages and Tools
 
